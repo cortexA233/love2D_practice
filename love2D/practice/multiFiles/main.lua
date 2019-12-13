@@ -1,0 +1,2 @@
+require("exam")
+print(test)
